@@ -13,6 +13,7 @@
 		7EACB2A12911890700C74F16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EACB29F2911890700C74F16 /* Main.storyboard */; };
 		7EACB2A32911890A00C74F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EACB2A22911890A00C74F16 /* Assets.xcassets */; };
 		7EACB2A62911890A00C74F16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EACB2A42911890A00C74F16 /* LaunchScreen.storyboard */; };
+		7EACB2AE29118E7E00C74F16 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EACB2AD29118E7E00C74F16 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7EACB2A22911890A00C74F16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EACB2A52911890A00C74F16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EACB2A72911890A00C74F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EACB2AD29118E7E00C74F16 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7EACB2992911890700C74F16 /* AppDelegate.swift */,
 				7EACB29B2911890700C74F16 /* SceneDelegate.swift */,
 				7EACB29D2911890700C74F16 /* ViewController.swift */,
+				7EACB2AD29118E7E00C74F16 /* CaptionOption.swift */,
 				7EACB29F2911890700C74F16 /* Main.storyboard */,
 				7EACB2A22911890A00C74F16 /* Assets.xcassets */,
 				7EACB2A42911890A00C74F16 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EACB29E2911890700C74F16 /* ViewController.swift in Sources */,
+				7EACB2AE29118E7E00C74F16 /* CaptionOption.swift in Sources */,
 				7EACB29A2911890700C74F16 /* AppDelegate.swift in Sources */,
 				7EACB29C2911890700C74F16 /* SceneDelegate.swift in Sources */,
 			);
